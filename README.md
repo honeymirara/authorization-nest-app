@@ -23,6 +23,7 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
+This is a server-side application developed using the Nest.js framework. The application provides functionality for user registration, authentication, and password updates. Additionally, logging has been incorporated into the application to ensure transparency and tracking of operations.
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
